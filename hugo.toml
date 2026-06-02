@@ -1,0 +1,60 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Home'
+theme = 'PaperMod'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = false
+
+#[params.assets]
+#customCSS = ["css/custom.css"]
+
+[params.homeInfoParams]
+Title = "👋 Welcome!"
+
+Content = """
+
+Hi, I'm Anil.
+
+I'm a Cloud & Platform Engineer based in Zürich, Switzerland, where I have been living and working for more than 15 years, with a passion for building reliable cloud platforms, automation, and enabling data science and analytics teams.
+
+This website is a place where I share a little about myself, my professional journey, and some of the projects and technologies I've worked with over the years.
+
+Whether you're a colleague, recruiter, fellow engineer, or simply curious, I hope you find something interesting here.
+
+#### Explore
+
+→ About Me — My story, interests, and life outside of work 
+
+→ Work Experience — Professional experience, projects, and technical background
+
+Thanks for stopping by.
+
+[MORE ABOUT ME →](/about/)
+"""
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/anilkodepaka"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/anil-kodepaka-34586328/"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+name = "WorkExperience"
+url = "/workexperience/"
+weight = 20
+

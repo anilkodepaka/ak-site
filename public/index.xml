@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jun 2026 15:54:38 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Tue, 02 Jun 2026 15:54:38 +0200</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;posit-suite-platform&#34;&gt;Posit Suite Platform&lt;/h2&gt;
+&lt;p&gt;Client: Takeda&lt;/p&gt;
+&lt;p&gt;Technologies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS EKS&lt;/li&gt;
+&lt;li&gt;Posit Workbench&lt;/li&gt;
+&lt;li&gt;Terraform&lt;/li&gt;
+&lt;li&gt;Kubernetes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Highlights:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built cloud-native analytics platform&lt;/li&gt;
+&lt;li&gt;Supported data science workloads&lt;/li&gt;
+&lt;li&gt;Worked in GxP environment&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/aboutorg/</link>
+      <pubDate>Tue, 02 Jun 2026 15:54:22 +0200</pubDate>
+      <guid>http://localhost:1313/aboutorg/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/images/pp01.png&#34; alt=&#34;Anil Kodepaka&#34; width=&#34;250&#34; align=&#34;right&#34; /&gt;
+&lt;h1 id=&#34;hi-im-anil&#34;&gt;Hi, I&amp;rsquo;m Anil!&lt;/h1&gt;
+&lt;p&gt;Cloud &amp;amp; Platform Engineer with 18+ years of experience in enterprise IT, including over 8 years in cloud-native and Kubernetes-based environments. Strong background in designing, building, and operating scalable multi-tenant platforms supporting data science, analytics, and compute-intensive workloads in regulated and enterprise environments.&lt;/p&gt;
+&lt;p&gt;Extensive hands-on experience with AWS, Kubernetes (OpenShift and EKS), and Infrastructure as Code (Terraform, CloudFormation, Ansible), with a focus on automation, reliability, and secure platform design. Proven ability to develop and operate infrastructure services, tooling, and pipelines to support large-scale data and analytics platforms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;div style=&#34;display:flex; gap:30px; align-items:flex-start;&#34;&gt;
+&lt;div style=&#34;flex:1;&#34;&gt;
+&lt;h1 id=&#34;-hi-im-anil&#34;&gt;👋 Hi, I’m Anil!&lt;/h1&gt;
+&lt;p&gt;I studied Computer Science Engineering and began my career in IT with a passion for technology and problem-solving. Over the years, that journey brought me to Switzerland — a move that was both exciting and challenging.&lt;/p&gt;
+&lt;p&gt;Relocating to a new country meant adapting to a different culture, language, and way of life. Fortunately, I was surrounded by a wonderful group of Indian colleagues who quickly became some of my closest friends. Their support and friendship made Switzerland feel like home from the very beginning. As new opportunities arose, I continued to grow both professionally and personally, building a life that I truly enjoy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Work Experience</title>
+      <link>http://localhost:1313/workexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/workexperience/</guid>
+      <description>&lt;h3 id=&#34;platform-architect--posit-suite&#34;&gt;Platform Architect – Posit Suite&lt;/h3&gt;
+&lt;h4 id=&#34;client-takeda-switzerland--jan-2026--mar-2026&#34;&gt;Client: Takeda, Switzerland | Jan 2026 – Mar 2026&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and delivered a cloud-based Posit (RStudio) platform for enterprise analytics workloads&lt;/li&gt;
+&lt;li&gt;Built and operated AWS EKS-based infrastructure supporting data science teams&lt;/li&gt;
+&lt;li&gt;Ensured platform stability, scalability, and secure access for analytical workloads&lt;/li&gt;
+&lt;li&gt;Worked within a regulated environment including validation (IQ/OQ) and formal change control processes&lt;/li&gt;
+&lt;li&gt;Produced technical documentation and operational handover material for long-term support&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;enterprise-cloud--data-platform-engineer&#34;&gt;Enterprise Cloud / Data Platform Engineer&lt;/h3&gt;
+&lt;h4 id=&#34;client-takeda-switzerland--aug-2021--dec-2025&#34;&gt;Client: Takeda, Switzerland | Aug 2021 – Dec 2025&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed, built, and operated AWS-based data platforms supporting enterprise analytics and data science teams&lt;/li&gt;
+&lt;li&gt;Owned Kubernetes (EKS) environments including upgrades, lifecycle management, and troubleshooting&lt;/li&gt;
+&lt;li&gt;Collaborated with data science teams to improve performance, stability, and usability of Databricks-based workloads&lt;/li&gt;
+&lt;li&gt;Implemented infrastructure automation using cloudformation and scripting to standardize deployments&lt;/li&gt;
+&lt;li&gt;Supported cost optimization and platform efficiency initiatives&lt;/li&gt;
+&lt;li&gt;Acted as technical bridge between platform engineering, data teams, and infrastructure stakeholders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;platform-engineer-openshift--automation&#34;&gt;Platform Engineer (OpenShift / Automation)&lt;/h3&gt;
+&lt;h4 id=&#34;client-novartis-switzerland--aug-2017--aug-2021&#34;&gt;Client: Novartis, Switzerland | Aug 2017 – Aug 2021&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Operated a multi-tenant container platform (OpenShift) supporting R and SAS-based analytics workloads and enterprise applications.&lt;/li&gt;
+&lt;li&gt;Automated platform provisioning, configuration management, and operational tasks using Ansible.&lt;/li&gt;
+&lt;li&gt;Supported Linux-based production environments through incident management, troubleshooting, performance analysis, and root cause investigation.&lt;/li&gt;
+&lt;li&gt;Collaborated with security, architecture, and application teams to ensure platform reliability, compliance, and operational efficiency.&lt;/li&gt;
+&lt;li&gt;Participated in release management, change implementation, and production support processes.&lt;/li&gt;
+&lt;li&gt;Contributed to continuous improvement of platform services supporting enterprise data and analytics workloads.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;application-hosting--infrastructure-engineer&#34;&gt;Application Hosting &amp;amp; Infrastructure Engineer&lt;/h3&gt;
+&lt;h4 id=&#34;client-novartis--2013--2017&#34;&gt;Client: Novartis | 2013 – 2017&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed application hosting environments across web, application, and database layers&lt;/li&gt;
+&lt;li&gt;Supported deployments, releases, and production operations&lt;/li&gt;
+&lt;li&gt;Implemented backup, recovery, and system security processes&lt;/li&gt;
+&lt;li&gt;Resolved production incidents and contributed to root cause analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;earlier-roles-20062013&#34;&gt;Earlier Roles (2006–2013)&lt;/h3&gt;
+&lt;h4 id=&#34;client-novartis--tata-teleservices--2006--2013&#34;&gt;Client: Novartis / Tata Teleservices | 2006 – 2013&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Provided L2/L3 infrastructure support across enterprise environments&lt;/li&gt;
+&lt;li&gt;Performed incident management, problem analysis, and root cause investigations&lt;/li&gt;
+&lt;li&gt;Supported web and application platforms (Apache, WebLogic, IIS)&lt;/li&gt;
+&lt;li&gt;Built foundational experience in enterprise IT operations and troubleshooting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;professional-development&#34;&gt;Professional Development:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Regular attendee of AWS and Red Hat technical conferences, community events, and cloud-native workshops&lt;/li&gt;
+&lt;li&gt;Continuously expanding knowledge in cloud architecture, Kubernetes ecosystems, platform engineering, and emerging AI/cloud technologies&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

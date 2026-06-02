@@ -1,0 +1,51 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Home'
+theme = 'PaperMod'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = false
+
+#[params.assets]
+#customCSS = ["css/custom.css"]
+
+[params.homeInfoParams]
+Title = "Welcome to AnilKodepaka site!"
+
+Content = """
+**Cloud & Platform Engineer**
+
+Cloud & Platform Engineer enabling data science, analytics, and cloud-native platforms
+
+I have over 15 years of experience in enterprise IT, including more than 8 years working with cloud-native and Kubernetes-based platforms. My background spans AWS, OpenShift, infrastructure automation, and platform engineering, with a strong focus on enabling data science and analytics workloads in regulated environments.
+
+I enjoy building reliable, scalable, and secure platforms, automating infrastructure, and helping teams deliver value through technology. More recently, I have been expanding my knowledge of HPC and AI platform engineering.
+
+[MORE ABOUT ME →](/about/)
+"""
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/anilkodepaka"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/anil-kodepaka-34586328/"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+name = "WorkExperience"
+url = "/workexperience/"
+weight = 20
+
