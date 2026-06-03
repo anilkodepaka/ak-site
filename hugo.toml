@@ -3,6 +3,9 @@ locale = 'en-us'
 title = 'Home'
 theme = 'PaperMod'
 
+# 🚨 Important fix: prevents RSS from interfering with GitHub Pages routing
+disableKinds = ["RSS"]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -11,9 +14,6 @@ theme = 'PaperMod'
 [params]
 ShowReadingTime = true
 ShowShareButtons = false
-
-#[params.assets]
-#customCSS = ["css/custom.css"]
 
 [params.homeInfoParams]
 Title = "👋 Welcome!"
