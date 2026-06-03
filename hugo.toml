@@ -36,7 +36,7 @@ Whether you're a colleague, recruiter, fellow engineer, or simply curious, I hop
 
 Thanks for stopping by.
 
-[MORE ABOUT ME →](/about/)
+[MORE ABOUT ME →](about/)
 """
 
 [[params.socialIcons]]
@@ -50,11 +50,11 @@ url = "https://www.linkedin.com/in/anil-kodepaka-34586328/"
 [[menu.main]]
 identifier = "about"
 name = "About"
-url = "/about/"
+url = "about/"
 weight = 10
 
 [[menu.main]]
 name = "WorkExperience"
-url = "/workexperience/"
+url = "workexperience/"
 weight = 20
 
