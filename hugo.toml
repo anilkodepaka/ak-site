@@ -1,4 +1,4 @@
-baseURL = 'https://anilkodepaka.github.io/ak-site/'
+baseURL = 'https://anilkodepaka.github.io/'
 locale = 'en-us'
 title = 'Home'
 theme = 'PaperMod'
